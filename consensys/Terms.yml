@@ -1,0 +1,17 @@
+---
+extends: substitution
+message: Our style guide recommends '%s' instead of '%s'
+level: error
+ignorecase: true
+swap:
+  Dapp: dapp
+  DApp: dapp
+  Dapps: dapps
+  DApps: dapps
+  consensys: ConsenSys
+  Consensys: ConsenSys
+  mesh: Mesh
+  spoke: Spoke
+  circle: Circle
+  hub: Hub
+  ethereum: Ethereum

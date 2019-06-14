@@ -1,0 +1,14 @@
+---
+extends: spelling
+message: "Did you really mean '%s'?"
+level: error
+custom: true
+code: false
+ignore:
+  - consensys/tech-terms/security.txt
+  - consensys/tech-terms/blockchain.txt
+  - consensys/tech-terms/devops.txt
+  - consensys/tech-terms/general.txt
+  - consensys/tech-terms/techwriting.txt
+  - consensys/tech-terms/mobile.txt
+  - consensys/tech-terms/java.txt
